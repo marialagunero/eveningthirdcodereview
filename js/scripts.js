@@ -1,5 +1,10 @@
 //business logic
-var saying = function
+var saying = function(number) {
+
+  if (number === 1) {
+    if (number.toString())
+  }
+}
 
 
 //user interface logic
