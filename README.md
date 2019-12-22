@@ -16,19 +16,19 @@ _This project is a website that takes a users inputted number and will return ei
 ## Specs Beep! Boop!
 
 
-*Non numbers will get a: "Sorry, not a number!"
+* _Non numbers will get a: "Sorry, not a number!"_
 -Example Input: A
 -Example Output: Sorry, not a number!
-*Numbers that contain a 1: all digits are replaced with "Beep!"
+* _Numbers that contain a 1: all digits are replaced with "Beep!"_
 -Example Input: 0
 -Example Output:"Beep!
-*Numbers that contain a 2: all digits are replaced with "Boop!"
+* _Numbers that contain a 2: all digits are replaced with "Boop!"_
 -Example Input: 2
 -Example Output: "Boop!"
-*Numbers that contain a 3: all digits are replaced with "I'm sorry, Dave. I'm afraid I can't do that."
+* _Numbers that contain a 3: all digits are replaced with "I'm sorry, Dave. I'm afraid I can't do that."_
 -Example Input: 3
 -Example Output: "I'm sorry, Dave. I'm afraid I can't do that."
-*Exceptions are listed from least to most important.
+* _Exceptions are listed from least to most important._
 -Example Input: 13
 -Example Output: "I'm sorry, Dave. I'm afraid I can't do that."
 
