@@ -1,6 +1,4 @@
-#_Beep Boop_
-
-###_Survey_
+# Beep Boop
 
 ### By Maria Lagunero
 
@@ -48,4 +46,4 @@ _HTML, Bootstrap, JavaScript, jQuery, CSS, README.md_
 
 *MIT*
 
-####Copyright 2019 Maria Lagunero
+####_Copyright 2019 Maria Lagunero_
