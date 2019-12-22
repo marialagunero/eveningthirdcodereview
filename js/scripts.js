@@ -15,10 +15,11 @@ $(document).ready(function() {
   $("form#number").submit(function(event) {
     event.preventDefault();
 
-    var number = parseInt($("#numberInput").val();
-    var result = saying(number);
+    var number = $("#numberInput").val();
+    //var result = saying(number);
 
     $("#result").show();
+    console.log(number);
 
 
   });
