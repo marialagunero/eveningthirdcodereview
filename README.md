@@ -18,7 +18,7 @@ _This project is a website that takes a users inputted number and will return ei
 -Example Input: A
 -Example Output: Sorry, not a number!
 * _Numbers that contain a 1: all digits are replaced with "Beep!"_
--Example Input: 0
+-Example Input: 1
 -Example Output:"Beep!
 * _Numbers that contain a 2: all digits are replaced with "Boop!"_
 -Example Input: 2
